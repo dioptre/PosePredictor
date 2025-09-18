@@ -1,0 +1,19 @@
+# Core ML/AI libraries (updated for modern systems)
+tensorflow>=2.10.0
+numpy
+scipy
+
+# Computer Vision
+opencv-python
+scikit-image
+scikit-learn
+pillow
+
+# Visualization
+matplotlib
+
+# Configuration
+configobj
+
+# Video processing
+moviepy
