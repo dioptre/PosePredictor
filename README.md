@@ -885,7 +885,7 @@ Once basic system is working, consider adding:
 **Support:** If you encounter issues, check each step carefully and ensure all dependencies are installed correctly. The system is designed to work in simulation mode even without the physical camera for testing purposes.
 
 
-Summary:
+## Summary:
 
 
   Complete Implementation Guide Includes:
